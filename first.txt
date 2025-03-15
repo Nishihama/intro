@@ -16,3 +16,5 @@
 
 
 ここを追加
+/git add
+/git commit
